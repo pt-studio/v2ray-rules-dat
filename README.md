@@ -2,6 +2,15 @@
 
 Credit https://github.com/Loyalsoldier/v2ray-rules-dat
 
+Download links
+
+- geoip.dat
+  - https://github.com/pt-studio/v2ray-rules-dat/releases/latest/download/geoip.dat
+  - https://cdn.jsdelivr.net/gh/pt-studio/v2ray-rules-dat@release/geoip.dat
+- geosite.dat
+  - https://github.com/pt-studio/v2ray-rules-dat/releases/latest/download/geosite.dat
+  - https://cdn.jsdelivr.net/gh/pt-studio/v2ray-rules-dat@release/geosite.dat
+
 ## geoip.dat
 
 - Generated through the repository [@Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)
